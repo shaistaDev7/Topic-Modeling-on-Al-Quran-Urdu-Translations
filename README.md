@@ -9,3 +9,12 @@ the performance of our proposed BERTopic model compared to traditional technique
 conventional methods, achieving an average coherence improvement of 0.03 and a diversity score of 0.83.
 These findings highlight the effectiveness of BERTopic in extracting meaningful topics from Urdu translations of the Holy Quran and contribute to the computational analysis of religious texts, supporting scholarly
 endeavors in comparative studies of Quranic translations in Urdu.</p>
+<h3>📖 Cite this Research Article</h3>
+<p>
+  Zafar, A., Wasim, M., Zulfiqar, S., Waheed, T., &amp; Siddique, A. (2024). 
+  <strong>Transformer-Based Topic Modeling for Urdu Translations of the Holy Quran.</strong> 
+  <em>ACM Transactions on Asian and Low-Resource Language Information Processing</em>, 
+  23(10), Article 146. 
+  <a href="https://doi.org/10.1145/3694967" target="_blank">https://doi.org/10.1145/3694967</a>
+</p>
+
